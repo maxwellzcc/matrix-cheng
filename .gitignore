@@ -74,4 +74,4 @@ captures/
 **/bin
 **/classes
 *.apk
-app/configuration.txt
+**/configuration.txt
